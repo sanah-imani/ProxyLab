@@ -1,0 +1,31 @@
+Test /afs/andrew.cmu.edu/usr4/simani/private/15213/proxylab-f21-sanahImani/tests/A01-single-fetch.cmd failed: Couldn't run test: [Errno 8] Exec format error
+Test /afs/andrew.cmu.edu/usr4/simani/private/15213/proxylab-f21-sanahImani/tests/A02-basic-text.cmd failed: Couldn't run test: [Errno 8] Exec format error
+Test /afs/andrew.cmu.edu/usr4/simani/private/15213/proxylab-f21-sanahImani/tests/A03-basic-binary.cmd failed: Couldn't run test: [Errno 8] Exec format error
+Test /afs/andrew.cmu.edu/usr4/simani/private/15213/proxylab-f21-sanahImani/tests/A04-missing-file.cmd failed: Couldn't run test: [Errno 8] Exec format error
+Test /afs/andrew.cmu.edu/usr4/simani/private/15213/proxylab-f21-sanahImani/tests/A05-large-text.cmd failed: Couldn't run test: [Errno 8] Exec format error
+Aborting tests of series A
+Aborting testing
+Total run time = 0.04 seconds
+52 tests.  0 (0.0%) passed, 5 (9.6%) failed
+Runtime logs in directory ./logs
+SUCCESS COUNT = 0/52
+--------------------------------------------------------------------------------
+---------- ./logs/A01-single-fetch.log -----------------------------------------
+--------------------------------------------------------------------------------
+ *** Couldn't open file *** 
+--------------------------------------------------------------------------------
+---------- ./logs/A02-basic-text.log -------------------------------------------
+--------------------------------------------------------------------------------
+ *** Couldn't open file *** 
+--------------------------------------------------------------------------------
+---------- ./logs/A03-basic-binary.log -----------------------------------------
+--------------------------------------------------------------------------------
+ *** Couldn't open file *** 
+--------------------------------------------------------------------------------
+---------- ./logs/A04-missing-file.log -----------------------------------------
+--------------------------------------------------------------------------------
+ *** Couldn't open file *** 
+--------------------------------------------------------------------------------
+---------- ./logs/A05-large-text.log -------------------------------------------
+--------------------------------------------------------------------------------
+ *** Couldn't open file *** 
